@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikhailJacques
 - 👀 I’m interested in software development. I read books, hike, make my own booze and on occasion play Verdun computer game. 
-- 🌱 I’m currently learning advanced C++. Again... lol
+- 🌱 I’m currently practicing advanced C++. Again... lol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
