@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MikhailJacques
-- 👀 I’m interested in software development. I read books, hike, make my own booze and on occasion play Verdun computer game. 
-- 🌱 I’m currently practicing advanced C++. Again... lol
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I am Mikhail Jacques
+- 👀 I am interested in software engineering. I like to study history, hike around the country and I make my own booze.
+- 🌱 I am currently practicing advanced C++. Again... lol
+- 💞️ I am looking to collaborate on ... well, not sure about it just yet
+- 📫 How to reach me ... 
 
 <!---
 MikhailJacques/MikhailJacques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
