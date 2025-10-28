@@ -1,6 +1,6 @@
 - 👋 Hi, I am Mikhail Jacques
-- 👀 I am interested in software engineering. I like to study history, hike around the country and I make my own booze
-- 🌱 I use ChatGPT 4 and GitHub copilot in software development.
+- 👀 I am interested in Software Engineering. I use GitHub Copilot and ChatGPT during Software Development.
+- 🌱 I like to study history, hike around the country and I make my own booze 
 - 💞️ I am looking to collaborate on interesting and preferably challenging sofware engineering projects.
 - 📫 You can find me on LinkedIn, YouTube and Facebook: Mikhail Jacques
 
