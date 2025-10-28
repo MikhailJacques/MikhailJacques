@@ -1,8 +1,8 @@
-- 👋 Hi, I am Mikhail Jacques
-- 👀 I am interested in Software Engineering. I use GitHub Copilot and ChatGPT during Software Development.
-- 🌱 I like to study history, hike around the country and I make my own booze 
-- 💞️ I am looking to collaborate on interesting and preferably challenging sofware engineering projects.
-- 📫 You can find me on LinkedIn, YouTube and Facebook: Mikhail Jacques
+👋 Hi, I’m Mikhail Jacques.
+👀 Software engineer focused on building reliable, high-performance systems. I use GitHub Copilot and ChatGPT to accelerate development.
+🌱 Outside of work: history nerd, country-wide hiker, and home-brewer.
+💞️ Open to interesting, challenging software engineering collaborations.
+📫 Find me on LinkedIn, Facebook, YouTube
 
 <!---
 MikhailJacques/MikhailJacques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
