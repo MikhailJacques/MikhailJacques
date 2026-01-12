@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikhail Jacques.
+- 👋 Hi, I am Mikhail Jacques.
 - 👀 Software engineer focused on building reliable, high-performance systems. I use GitHub Copilot and ChatGPT to accelerate development.
 - 🌱 Outside of work: history nerd, country-wide hiker, and home-brewer.
 - 💞️ Open to interesting, challenging software engineering collaborations.
